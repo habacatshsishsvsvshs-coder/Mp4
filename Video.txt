@@ -1,1 +1,26 @@
 
+<div style="text-align:center; margin:20px 0;">
+    <a href=" https://t.co/gGiWnqofmS " target="_blank"
+       style="display:block; padding:12px; margin:10px 0;
+              background:#ff0000; color:#ffffff;
+              text-decoration:none; border-radius:8px;
+              font-size:18px; font-weight:bold;">
+        ▶ Play Video 1
+    </a>
+
+    <a href="https://t.co/E9f8msQ5M0 " target="_blank"
+       style="display:block; padding:12px; margin:10px 0;
+              background:#ff0000; color:#ffffff;
+              text-decoration:none; border-radius:8px;
+              font-size:18px; font-weight:bold;">
+        ▶ Play Video 2
+    </a>
+
+    <a href="https://t.co/pW7ao7Ewnc " target="_blank"
+       style="display:block; padding:12px; margin:10px 0;
+              background:#ff0000; color:#ffffff;
+              text-decoration:none; border-radius:8px;
+              font-size:18px; font-weight:bold;">
+        ▶ Play Video 3
+    </a>
+</div>
